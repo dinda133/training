@@ -33,9 +33,9 @@ function intro() {
 
         <body>
             <div class="box">
-                <h1>👋 Hi!</h1>
+                <h1> Hi!</h1>
                 <p>My name is <b>Noah</b></p>
-                <p>🎮 I want to be a game developer</p>
+                <p> I want to be a game developer</p>
             </div>
         </body>
         </html>
@@ -78,7 +78,7 @@ function funFact() {
 
         <body>
             <div class="box">
-                <h1>💡 Fun Fact!</h1>
+                <h1> Fun Fact!</h1>
                 <p>Did you know?</p>
                 <p>
                     The first programmer in the world was
